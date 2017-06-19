@@ -11,6 +11,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //Getting the widget Id here
         Init();
+        //Getting the widget id here
+        listener();
+    }
+
+    private void listener() {
     }
 
     private void Init() {
